@@ -1,2 +1,1 @@
-# trident
-Voron Trident 300mm
+# Voron Trident VT.660 300mm
